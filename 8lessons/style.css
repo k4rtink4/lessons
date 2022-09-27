@@ -1,0 +1,15 @@
+.element {
+    width: 500px;
+    height: 100px;
+    font-size: 18px;
+}
+
+.back {
+    background-color: bisque;
+}
+.text {
+    font-size: 20px;
+}
+.work{
+    margin-top: 50px;
+}
